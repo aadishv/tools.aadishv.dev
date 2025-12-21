@@ -1,0 +1,764 @@
+{
+  "sentences": [
+    {
+      "def": "Date: December 22, 2020",
+      "words": [
+        {
+          "character": "日",
+          "pinyin": "Rì"
+        },
+        {
+          "character": "期",
+          "pinyin": "qī"
+        },
+        {
+          "character": "：",
+          "pinyin": ""
+        },
+        {
+          "character": "2020",
+          "pinyin": ""
+        },
+        {
+          "character": "年",
+          "pinyin": "nián"
+        },
+        {
+          "character": "12",
+          "pinyin": ""
+        },
+        {
+          "character": "月",
+          "pinyin": "yuè"
+        },
+        {
+          "character": "22",
+          "pinyin": ""
+        },
+        {
+          "character": "日",
+          "pinyin": "rì"
+        }
+      ]
+    },
+    {
+      "def": "From: Li You",
+      "words": [
+        {
+          "character": "发",
+          "pinyin": "Fā"
+        },
+        {
+          "character": "件",
+          "pinyin": "jiàn"
+        },
+        {
+          "character": "人",
+          "pinyin": "rén"
+        },
+        {
+          "character": "：",
+          "pinyin": ""
+        },
+        {
+          "character": "李",
+          "pinyin": "Lǐ"
+        },
+        {
+          "character": "友",
+          "pinyin": "Yǒu"
+        }
+      ]
+    },
+    {
+      "def": "To: Wang Peng",
+      "words": [
+        {
+          "character": "收",
+          "pinyin": "Shōu"
+        },
+        {
+          "character": "件",
+          "pinyin": "jiàn"
+        },
+        {
+          "character": "人",
+          "pinyin": "rén"
+        },
+        {
+          "character": ":",
+          "pinyin": ""
+        },
+        {
+          "character": "王",
+          "pinyin": "Wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "Péng"
+        }
+      ]
+    },
+    {
+      "def": "Subject: Thank you!",
+      "words": [
+        {
+          "character": "主",
+          "pinyin": "Zhǔ"
+        },
+        {
+          "character": "题",
+          "pinyin": "tí"
+        },
+        {
+          "character": "：",
+          "pinyin": ""
+        },
+        {
+          "character": "谢",
+          "pinyin": "Xiè"
+        },
+        {
+          "character": "谢",
+          "pinyin": "xie"
+        },
+        {
+          "character": "！",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Thank you for driving me to the airport that day.",
+      "words": [
+        {
+          "character": "谢",
+          "pinyin": "Xiè"
+        },
+        {
+          "character": "谢",
+          "pinyin": "xie"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "送",
+          "pinyin": "sòng"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "场",
+          "pinyin": "chǎng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "But, I feel very bad for taking up so much of your time...",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "Bú"
+        },
+        {
+          "character": "过",
+          "pinyin": "guò"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "让",
+          "pinyin": "ràng"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "花",
+          "pinyin": "huā"
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "时",
+          "pinyin": "shí"
+        },
+        {
+          "character": "间",
+          "pinyin": "jiān"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "真",
+          "pinyin": "zhēn"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "意",
+          "pinyin": "yì"
+        },
+        {
+          "character": "思",
+          "pinyin": "si"
+        },
+        {
+          "character": ".",
+          "pinyin": ""
+        },
+        {
+          "character": ".",
+          "pinyin": ""
+        },
+        {
+          "character": ".",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "These last few days, I've been driving out every day to see old friends.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "Wǒ"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "几",
+          "pinyin": "jǐ"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "每",
+          "pinyin": "měi"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "都",
+          "pinyin": "dōu"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "出",
+          "pinyin": "chū"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "老",
+          "pinyin": "lǎo"
+        },
+        {
+          "character": "朋",
+          "pinyin": "péng"
+        },
+        {
+          "character": "友",
+          "pinyin": "you"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "People in this city drive especially fast.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "Zhè"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "城",
+          "pinyin": "chéng"
+        },
+        {
+          "character": "市",
+          "pinyin": "shì"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "人",
+          "pinyin": "rén"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "得",
+          "pinyin": "de"
+        },
+        {
+          "character": "特",
+          "pinyin": "tè"
+        },
+        {
+          "character": "别",
+          "pinyin": "bié"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I get a little nervous driving on the highway.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "Wǒ"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "高",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "速",
+          "pinyin": "sù"
+        },
+        {
+          "character": "公",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "路",
+          "pinyin": "lù"
+        },
+        {
+          "character": "上",
+          "pinyin": "shang"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "真",
+          "pinyin": "zhēn"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎnr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "紧",
+          "pinyin": "jǐn"
+        },
+        {
+          "character": "张",
+          "pinyin": "zhāng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "But there are no public buses or subways here, I can only drive myself, which is very inconvenient.",
+      "words": [
+        {
+          "character": "可",
+          "pinyin": "Kě"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhèr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "公",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "共",
+          "pinyin": "gòng"
+        },
+        {
+          "character": "汽",
+          "pinyin": "qì"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "也",
+          "pinyin": "yě"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "铁",
+          "pinyin": "tiě"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "只",
+          "pinyin": "zhǐ"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "自",
+          "pinyin": "zì"
+        },
+        {
+          "character": "己",
+          "pinyin": "jǐ"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "方",
+          "pinyin": "fāng"
+        },
+        {
+          "character": "便",
+          "pinyin": "biàn"
+        },
+        {
+          "character": ".",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "If you have free time, call my cell or send me a text message, I'd like to chat with you.",
+      "words": [
+        {
+          "character": "有",
+          "pinyin": "Yǒu"
+        },
+        {
+          "character": "空",
+          "pinyin": "kòngr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "话",
+          "pinyin": "huà"
+        },
+        {
+          "character": "打",
+          "pinyin": "dǎ"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "手",
+          "pinyin": "shǒu"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "或",
+          "pinyin": "huò"
+        },
+        {
+          "character": "者",
+          "pinyin": "zhě"
+        },
+        {
+          "character": "给",
+          "pinyin": "gěi"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "发",
+          "pinyin": "fā"
+        },
+        {
+          "character": "短",
+          "pinyin": "duǎn"
+        },
+        {
+          "character": "信",
+          "pinyin": "xìn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "跟",
+          "pinyin": "gēn"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "聊",
+          "pinyin": "liáo"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiānr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The New Year is almost here, wish you a Happy New Year!",
+      "words": [
+        {
+          "character": "新",
+          "pinyin": "Xīn"
+        },
+        {
+          "character": "年",
+          "pinyin": "nián"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "祝",
+          "pinyin": "zhù"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "新",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "年",
+          "pinyin": "nián"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "乐",
+          "pinyin": "lè"
+        },
+        {
+          "character": "！",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

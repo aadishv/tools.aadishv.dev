@@ -1,0 +1,1372 @@
+{
+  "sentences": [
+    {
+      "def": "(At a restaurant...)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "馆",
+          "pinyin": "guǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Come in, come in.",
+      "words": [
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "进",
+          "pinyin": "jìn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "进",
+          "pinyin": "jìn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "How come there are so many people?",
+      "words": [
+        {
+          "character": "人",
+          "pinyin": "rén"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It seems there are no seats left.",
+      "words": [
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "像",
+          "pinyin": "xiàng"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "位",
+          "pinyin": "wèi"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "都",
+          "pinyin": "dōu"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Waiter, excuse me, are there any seats left?",
+      "words": [
+        {
+          "character": "服",
+          "pinyin": "fú"
+        },
+        {
+          "character": "务",
+          "pinyin": "wù"
+        },
+        {
+          "character": "员",
+          "pinyin": "yuán"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "问",
+          "pinyin": "wèn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "位",
+          "pinyin": "wèi"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Yes, yes, yes.",
+      "words": [
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "That table is not taken.",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "张",
+          "pinyin": "zhāng"
+        },
+        {
+          "character": "桌",
+          "pinyin": "zhuō"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "人",
+          "pinyin": "rén"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "What would you two like to eat?",
+      "words": [
+        {
+          "character": "两",
+          "pinyin": "liǎng"
+        },
+        {
+          "character": "位",
+          "pinyin": "wèi"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "什",
+          "pinyin": "shén"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Wang Peng, you order.",
+      "words": [
+        {
+          "character": "王",
+          "pinyin": "wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "péng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "OK.",
+      "words": [
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "First, give us two plates of dumplings, vegetarian ones.",
+      "words": [
+        {
+          "character": "先",
+          "pinyin": "xiān"
+        },
+        {
+          "character": "给",
+          "pinyin": "gěi"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "两",
+          "pinyin": "liǎng"
+        },
+        {
+          "character": "盘",
+          "pinyin": "pán"
+        },
+        {
+          "character": "饺",
+          "pinyin": "jiǎo"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "素",
+          "pinyin": "sù"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Besides dumplings, what else would you like?",
+      "words": [
+        {
+          "character": "除",
+          "pinyin": "chú"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "饺",
+          "pinyin": "jiǎo"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "以",
+          "pinyin": "yǐ"
+        },
+        {
+          "character": "外",
+          "pinyin": "wài"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "什",
+          "pinyin": "shén"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Li You, what do you say?",
+      "words": [
+        {
+          "character": "李",
+          "pinyin": "lǐ"
+        },
+        {
+          "character": "友",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "说",
+          "pinyin": "shuō"
+        },
+        {
+          "character": "呢",
+          "pinyin": "ne"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I also want a plate of family-style tofu, don't put meat in it, I'm a vegetarian.",
+      "words": [
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "盘",
+          "pinyin": "pán"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "常",
+          "pinyin": "cháng"
+        },
+        {
+          "character": "豆",
+          "pinyin": "dòu"
+        },
+        {
+          "character": "腐",
+          "pinyin": "fu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "放",
+          "pinyin": "fàng"
+        },
+        {
+          "character": "肉",
+          "pinyin": "ròu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "素",
+          "pinyin": "sù"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Our family-style tofu has no meat in it.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "常",
+          "pinyin": "cháng"
+        },
+        {
+          "character": "豆",
+          "pinyin": "dòu"
+        },
+        {
+          "character": "腐",
+          "pinyin": "fu"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "肉",
+          "pinyin": "ròu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Also two bowls of hot and sour soup, please don't add MSG, and use less salt.",
+      "words": [
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "两",
+          "pinyin": "liǎng"
+        },
+        {
+          "character": "碗",
+          "pinyin": "wǎn"
+        },
+        {
+          "character": "酸",
+          "pinyin": "suān"
+        },
+        {
+          "character": "辣",
+          "pinyin": "là"
+        },
+        {
+          "character": "汤",
+          "pinyin": "tāng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "别",
+          "pinyin": "bié"
+        },
+        {
+          "character": "放",
+          "pinyin": "fàng"
+        },
+        {
+          "character": "味",
+          "pinyin": "wèi"
+        },
+        {
+          "character": "精",
+          "pinyin": "jīng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "少",
+          "pinyin": "shǎo"
+        },
+        {
+          "character": "放",
+          "pinyin": "fàng"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "盐",
+          "pinyin": "yán"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Do you have baby bok choy?",
+      "words": [
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Sorry, we just sold out of baby bok choy.",
+      "words": [
+        {
+          "character": "对",
+          "pinyin": "duì"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "起",
+          "pinyin": "qǐ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "刚",
+          "pinyin": "gāng"
+        },
+        {
+          "character": "卖",
+          "pinyin": "mài"
+        },
+        {
+          "character": "完",
+          "pinyin": "wán"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Then we'll do without green vegetables.",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "青",
+          "pinyin": "qīng"
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Then what would you like to drink?",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "喝",
+          "pinyin": "hē"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "什",
+          "pinyin": "shén"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "呢",
+          "pinyin": "ne"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I want a glass of iced tea.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "杯",
+          "pinyin": "bēi"
+        },
+        {
+          "character": "冰",
+          "pinyin": "bīng"
+        },
+        {
+          "character": "茶",
+          "pinyin": "chá"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Li You, what are you drinking?",
+      "words": [
+        {
+          "character": "李",
+          "pinyin": "lǐ"
+        },
+        {
+          "character": "友",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "喝",
+          "pinyin": "hē"
+        },
+        {
+          "character": "什",
+          "pinyin": "shén"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I'm very thirsty, please give me a glass of cola, with lots of ice.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "渴",
+          "pinyin": "kě"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "给",
+          "pinyin": "gěi"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "杯",
+          "pinyin": "bēi"
+        },
+        {
+          "character": "可",
+          "pinyin": "kě"
+        },
+        {
+          "character": "乐",
+          "pinyin": "lè"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "放",
+          "pinyin": "fàng"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "冰",
+          "pinyin": "bīng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "OK, two plates of dumplings, one plate of family-style tofu, two bowls of hot and sour soup, one glass of iced tea, one glass of cola, lots of ice.",
+      "words": [
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "两",
+          "pinyin": "liǎng"
+        },
+        {
+          "character": "盘",
+          "pinyin": "pán"
+        },
+        {
+          "character": "饺",
+          "pinyin": "jiǎo"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "盘",
+          "pinyin": "pán"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "常",
+          "pinyin": "cháng"
+        },
+        {
+          "character": "豆",
+          "pinyin": "dòu"
+        },
+        {
+          "character": "腐",
+          "pinyin": "fu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "两",
+          "pinyin": "liǎng"
+        },
+        {
+          "character": "碗",
+          "pinyin": "wǎn"
+        },
+        {
+          "character": "酸",
+          "pinyin": "suān"
+        },
+        {
+          "character": "辣",
+          "pinyin": "là"
+        },
+        {
+          "character": "汤",
+          "pinyin": "tāng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "杯",
+          "pinyin": "bēi"
+        },
+        {
+          "character": "冰",
+          "pinyin": "bīng"
+        },
+        {
+          "character": "茶",
+          "pinyin": "chá"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "杯",
+          "pinyin": "bēi"
+        },
+        {
+          "character": "可",
+          "pinyin": "kě"
+        },
+        {
+          "character": "乐",
+          "pinyin": "lè"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "放",
+          "pinyin": "fàng"
+        },
+        {
+          "character": "冰",
+          "pinyin": "bīng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Anything else?",
+      "words": [
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "别",
+          "pinyin": "bié"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Nothing else, this is enough.",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "别",
+          "pinyin": "bié"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "些",
+          "pinyin": "xiē"
+        },
+        {
+          "character": "够",
+          "pinyin": "gòu"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Waiter, we are both hungry, please bring the food a little faster.",
+      "words": [
+        {
+          "character": "服",
+          "pinyin": "fú"
+        },
+        {
+          "character": "务",
+          "pinyin": "wù"
+        },
+        {
+          "character": "员",
+          "pinyin": "yuán"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "都",
+          "pinyin": "dōu"
+        },
+        {
+          "character": "饿",
+          "pinyin": "è"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "上",
+          "pinyin": "shàng"
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No problem, the food will be ready in no time.",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "问",
+          "pinyin": "wèn"
+        },
+        {
+          "character": "题",
+          "pinyin": "tí"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "做",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

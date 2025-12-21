@@ -1,0 +1,997 @@
+{
+  "sentences": [
+    {
+      "def": "(Today is Thursday. The student cafeteria has Chinese food. The master chef is from Shanghai.)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "星",
+          "pinyin": "xīng"
+        },
+        {
+          "character": "期",
+          "pinyin": "qī"
+        },
+        {
+          "character": "四",
+          "pinyin": "sì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "生",
+          "pinyin": "shēng"
+        },
+        {
+          "character": "餐",
+          "pinyin": "cān"
+        },
+        {
+          "character": "厅",
+          "pinyin": "tīng"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "菜",
+          "pinyin": "cài"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "师",
+          "pinyin": "shī"
+        },
+        {
+          "character": "傅",
+          "pinyin": "fu"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "上",
+          "pinyin": "shàng"
+        },
+        {
+          "character": "海",
+          "pinyin": "hǎi"
+        },
+        {
+          "character": "人",
+          "pinyin": "rén"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Master chef, may I ask what's good for dinner today?",
+      "words": [
+        {
+          "character": "师",
+          "pinyin": "shī"
+        },
+        {
+          "character": "傅",
+          "pinyin": "fu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "请",
+          "pinyin": "qǐng"
+        },
+        {
+          "character": "问",
+          "pinyin": "wèn"
+        },
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "晚",
+          "pinyin": "wǎn"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "什",
+          "pinyin": "shén"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Today we have sweet and sour fish; it's sweet, sour, and extremely delicious. You should buy one.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "糖",
+          "pinyin": "táng"
+        },
+        {
+          "character": "醋",
+          "pinyin": "cù"
+        },
+        {
+          "character": "鱼",
+          "pinyin": "yú"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "甜",
+          "pinyin": "tián"
+        },
+        {
+          "character": "甜",
+          "pinyin": "tián"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "、",
+          "pinyin": ""
+        },
+        {
+          "character": "酸",
+          "pinyin": "suān"
+        },
+        {
+          "character": "酸",
+          "pinyin": "suān"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "极",
+          "pinyin": "jí"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "买",
+          "pinyin": "mǎi"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Okay.",
+      "words": [
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Is there braised beef in soy sauce today?",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "红",
+          "pinyin": "hóng"
+        },
+        {
+          "character": "烧",
+          "pinyin": "shāo"
+        },
+        {
+          "character": "牛",
+          "pinyin": "niú"
+        },
+        {
+          "character": "肉",
+          "pinyin": "ròu"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No.",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "You already ordered fish, don't eat meat.",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "已",
+          "pinyin": "yǐ"
+        },
+        {
+          "character": "经",
+          "pinyin": "jīng"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "鱼",
+          "pinyin": "yú"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "别",
+          "pinyin": "bié"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "肉",
+          "pinyin": "ròu"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "How about a cucumber salad?",
+      "words": [
+        {
+          "character": "来",
+          "pinyin": "lái"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "凉",
+          "pinyin": "liáng"
+        },
+        {
+          "character": "拌",
+          "pinyin": "bàn"
+        },
+        {
+          "character": "黄",
+          "pinyin": "huáng"
+        },
+        {
+          "character": "瓜",
+          "pinyin": "guā"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Okay.",
+      "words": [
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "And a bowl of rice.",
+      "words": [
+        {
+          "character": "再",
+          "pinyin": "zài"
+        },
+        {
+          "character": "来",
+          "pinyin": "lái"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "碗",
+          "pinyin": "wǎn"
+        },
+        {
+          "character": "米",
+          "pinyin": "mǐ"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "How much is it altogether?",
+      "words": [
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "共",
+          "pinyin": "gòng"
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "少",
+          "pinyin": "shao"
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Sweet and sour fish, 4.50; cucumber salad, 1.70; one bowl of rice, 0.50.",
+      "words": [
+        {
+          "character": "糖",
+          "pinyin": "táng"
+        },
+        {
+          "character": "醋",
+          "pinyin": "cù"
+        },
+        {
+          "character": "鱼",
+          "pinyin": "yú"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "四",
+          "pinyin": "sì"
+        },
+        {
+          "character": "块",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "五",
+          "pinyin": "wǔ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "凉",
+          "pinyin": "liáng"
+        },
+        {
+          "character": "拌",
+          "pinyin": "bàn"
+        },
+        {
+          "character": "黄",
+          "pinyin": "huáng"
+        },
+        {
+          "character": "瓜",
+          "pinyin": "guā"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "块",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "七",
+          "pinyin": "qī"
+        },
+        {
+          "character": "；",
+          "pinyin": ""
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "碗",
+          "pinyin": "wǎn"
+        },
+        {
+          "character": "米",
+          "pinyin": "mǐ"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "五",
+          "pinyin": "wǔ"
+        },
+        {
+          "character": "毛",
+          "pinyin": "máo"
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Altogether 6.70.",
+      "words": [
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "共",
+          "pinyin": "gòng"
+        },
+        {
+          "character": "六",
+          "pinyin": "liù"
+        },
+        {
+          "character": "块",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "七",
+          "pinyin": "qī"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Master chef, oh no, I forgot to bring my meal card.",
+      "words": [
+        {
+          "character": "师",
+          "pinyin": "shī"
+        },
+        {
+          "character": "傅",
+          "pinyin": "fu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "糟",
+          "pinyin": "zāo"
+        },
+        {
+          "character": "糕",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "忘",
+          "pinyin": "wàng"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "带",
+          "pinyin": "dài"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "卡",
+          "pinyin": "kǎ"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Here is ten yuan.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "十",
+          "pinyin": "shí"
+        },
+        {
+          "character": "块",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Here is your change, 3.30.",
+      "words": [
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "三",
+          "pinyin": "sān"
+        },
+        {
+          "character": "块",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "三",
+          "pinyin": "sān"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Master chef, you gave me the wrong change, one yuan too much.",
+      "words": [
+        {
+          "character": "师",
+          "pinyin": "shī"
+        },
+        {
+          "character": "傅",
+          "pinyin": "fu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "错",
+          "pinyin": "cuò"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "块",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Sorry, I didn't see it clearly.",
+      "words": [
+        {
+          "character": "对",
+          "pinyin": "duì"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "起",
+          "pinyin": "qǐ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "清",
+          "pinyin": "qīng"
+        },
+        {
+          "character": "楚",
+          "pinyin": "chu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It's okay.",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "关",
+          "pinyin": "guān"
+        },
+        {
+          "character": "系",
+          "pinyin": "xi"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Come again next Thursday.",
+      "words": [
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "星",
+          "pinyin": "xīng"
+        },
+        {
+          "character": "期",
+          "pinyin": "qī"
+        },
+        {
+          "character": "四",
+          "pinyin": "sì"
+        },
+        {
+          "character": "再",
+          "pinyin": "zài"
+        },
+        {
+          "character": "来",
+          "pinyin": "lái"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Okay, goodbye.",
+      "words": [
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "再",
+          "pinyin": "zài"
+        },
+        {
+          "character": "见",
+          "pinyin": "jiàn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "sentences": [
+    {
+      "def": "At Gao Xiaoyin's house...",
+      "words": [
+        {"character": "在", "pinyin": "zài"},
+        {"character": "高", "pinyin": "gāo"},
+        {"character": "小", "pinyin": "xiǎo"},
+        {"character": "音", "pinyin": "yīn"},
+        {"character": "家", "pinyin": "jiā"},
+        {"character": "…", "pinyin": ""},
+        {"character": "…", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Wang Peng, Li You, come in.",
+      "words": [
+        {"character": "王", "pinyin": "wáng"},
+        {"character": "朋", "pinyin": "péng"},
+        {"character": "，", "pinyin": ""},
+        {"character": "李", "pinyin": "lǐ"},
+        {"character": "友", "pinyin": "yǒu"},
+        {"character": "，", "pinyin": ""},
+        {"character": "快", "pinyin": "kuài"},
+        {"character": "进", "pinyin": "jìn"},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Xiaoyin, happy birthday! This is a birthday present for you.",
+      "words": [
+        {"character": "小", "pinyin": "xiǎo"},
+        {"character": "音", "pinyin": "yīn"},
+        {"character": "，", "pinyin": ""},
+        {"character": "祝", "pinyin": "zhù"},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "生", "pinyin": "shēng"},
+        {"character": "日", "pinyin": "rì"},
+        {"character": "快", "pinyin": "kuài"},
+        {"character": "乐", "pinyin": "lè"},
+        {"character": "！", "pinyin": ""},
+        {"character": "这", "pinyin": "zhè"},
+        {"character": "是", "pinyin": "shì"},
+        {"character": "送", "pinyin": "sòng"},
+        {"character": "给", "pinyin": "gěi"},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "生", "pinyin": "shēng"},
+        {"character": "日", "pinyin": "rì"},
+        {"character": "礼", "pinyin": "lǐ"},
+        {"character": "物", "pinyin": "wù"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Thank you! ... That's great! I've always wanted to buy this book.",
+      "words": [
+        {"character": "谢", "pinyin": "xiè"},
+        {"character": "谢", "pinyin": "xiè"},
+        {"character": "！", "pinyin": ""},
+        {"character": "…", "pinyin": ""},
+        {"character": "…", "pinyin": ""},
+        {"character": "太", "pinyin": "tài"},
+        {"character": "好", "pinyin": "hǎo"},
+        {"character": "了", "pinyin": "le"},
+        {"character": "！", "pinyin": ""},
+        {"character": "我", "pinyin": "wǒ"},
+        {"character": "一", "pinyin": "yī"},
+        {"character": "直", "pinyin": "zhí"},
+        {"character": "想", "pinyin": "xiǎng"},
+        {"character": "买", "pinyin": "mǎi"},
+        {"character": "这", "pinyin": "zhè"},
+        {"character": "本", "pinyin": "běn"},
+        {"character": "书", "pinyin": "shū"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Bringing so many things, you are too polite.",
+      "words": [
+        {"character": "带", "pinyin": "dài"},
+        {"character": "这", "pinyin": "zhè"},
+        {"character": "么", "pinyin": "me"},
+        {"character": "多", "pinyin": "duō"},
+        {"character": "东", "pinyin": "dōng"},
+        {"character": "西", "pinyin": "xi"},
+        {"character": "，", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "太", "pinyin": "tài"},
+        {"character": "客", "pinyin": "kè"},
+        {"character": "气", "pinyin": "qì"},
+        {"character": "了", "pinyin": "le"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Brother, Li You, you came.",
+      "words": [
+        {"character": "哥", "pinyin": "gē"},
+        {"character": "哥", "pinyin": "gē"},
+        {"character": "，", "pinyin": ""},
+        {"character": "李", "pinyin": "lǐ"},
+        {"character": "友", "pinyin": "yǒu"},
+        {"character": "，", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "了", "pinyin": "le"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Ah! Xiaohong, how are you?",
+      "words": [
+        {"character": "啊", "pinyin": "a"},
+        {"character": "！", "pinyin": ""},
+        {"character": "小", "pinyin": "xiǎo"},
+        {"character": "红", "pinyin": "hóng"},
+        {"character": "，", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "怎", "pinyin": "zěn"},
+        {"character": "么", "pinyin": "me"},
+        {"character": "样", "pinyin": "yàng"},
+        {"character": "？", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "I'm very good. I study English every day.",
+      "words": [
+        {"character": "我", "pinyin": "wǒ"},
+        {"character": "很", "pinyin": "hěn"},
+        {"character": "好", "pinyin": "hǎo"},
+        {"character": "。", "pinyin": ""},
+        {"character": "每", "pinyin": "měi"},
+        {"character": "天", "pinyin": "tiān"},
+        {"character": "都", "pinyin": "dōu"},
+        {"character": "在", "pinyin": "zài"},
+        {"character": "学", "pinyin": "xué"},
+        {"character": "英", "pinyin": "yīng"},
+        {"character": "文", "pinyin": "wén"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Xiaohong, how long do you practice English every day?",
+      "words": [
+        {"character": "小", "pinyin": "xiǎo"},
+        {"character": "红", "pinyin": "hóng"},
+        {"character": "，", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "每", "pinyin": "měi"},
+        {"character": "天", "pinyin": "tiān"},
+        {"character": "练", "pinyin": "liàn"},
+        {"character": "习", "pinyin": "xí"},
+        {"character": "英", "pinyin": "yīng"},
+        {"character": "文", "pinyin": "wén"},
+        {"character": "练", "pinyin": "liàn"},
+        {"character": "习", "pinyin": "xí"},
+        {"character": "多", "pinyin": "duō"},
+        {"character": "长", "pinyin": "cháng"},
+        {"character": "时", "pinyin": "shí"},
+        {"character": "间", "pinyin": "jiān"},
+        {"character": "？", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Three and a half hours. Plus two hours of English TV.",
+      "words": [
+        {"character": "三", "pinyin": "sān"},
+        {"character": "个", "pinyin": "gè"},
+        {"character": "半", "pinyin": "bàn"},
+        {"character": "钟", "pinyin": "zhōng"},
+        {"character": "头", "pinyin": "tóu"},
+        {"character": "。", "pinyin": ""},
+        {"character": "还", "pinyin": "hái"},
+        {"character": "有", "pinyin": "yǒu"},
+        {"character": "两", "pinyin": "liǎng"},
+        {"character": "个", "pinyin": "gè"},
+        {"character": "钟", "pinyin": "zhōng"},
+        {"character": "头", "pinyin": "tóu"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "英", "pinyin": "yīng"},
+        {"character": "文", "pinyin": "wén"},
+        {"character": "电", "pinyin": "diàn"},
+        {"character": "视", "pinyin": "shì"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Oh, when did you two arrive?",
+      "words": [
+        {"character": "哎", "pinyin": "āi"},
+        {"character": "，", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "两", "pinyin": "liǎng"},
+        {"character": "是", "pinyin": "shì"},
+        {"character": "什", "pinyin": "shén"},
+        {"character": "么", "pinyin": "me"},
+        {"character": "时", "pinyin": "shí"},
+        {"character": "候", "pinyin": "hòu"},
+        {"character": "到", "pinyin": "dào"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "？", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Just now.",
+      "words": [
+        {"character": "刚", "pinyin": "gāng"},
+        {"character": "到", "pinyin": "dào"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Didn't Bai Ying'ai come with you?",
+      "words": [
+        {"character": "白", "pinyin": "bái"},
+        {"character": "英", "pinyin": "yīng"},
+        {"character": "爱", "pinyin": "ài"},
+        {"character": "没", "pinyin": "méi"},
+        {"character": "跟", "pinyin": "gēn"},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "一", "pinyin": "yī"},
+        {"character": "起", "pinyin": "qǐ"},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "吗", "pinyin": "ma"},
+        {"character": "？", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "She hasn't arrived yet. I thought she was already here.",
+      "words": [
+        {"character": "她", "pinyin": "tā"},
+        {"character": "还", "pinyin": "hái"},
+        {"character": "没", "pinyin": "méi"},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "，", "pinyin": ""},
+        {"character": "我", "pinyin": "wǒ"},
+        {"character": "以", "pinyin": "yǐ"},
+        {"character": "为", "pinyin": "wéi"},
+        {"character": "她", "pinyin": "tā"},
+        {"character": "已", "pinyin": "yǐ"},
+        {"character": "经", "pinyin": "jīng"},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "了", "pinyin": "le"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Wang Peng, Li You, come, let me introduce you. This is Aunt Hai Lun, and this is her son Tangmu.",
+      "words": [
+        {"character": "王", "pinyin": "wáng"},
+        {"character": "朋", "pinyin": "péng"},
+        {"character": "，", "pinyin": ""},
+        {"character": "李", "pinyin": "lǐ"},
+        {"character": "友", "pinyin": "yǒu"},
+        {"character": "，", "pinyin": ""},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "，", "pinyin": ""},
+        {"character": "我", "pinyin": "wǒ"},
+        {"character": "给", "pinyin": "gěi"},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "介", "pinyin": "jiè"},
+        {"character": "绍", "pinyin": "shào"},
+        {"character": "一", "pinyin": "yī"},
+        {"character": "下", "pinyin": "xià"},
+        {"character": "，", "pinyin": ""},
+        {"character": "这", "pinyin": "zhè"},
+        {"character": "是", "pinyin": "shì"},
+        {"character": "我", "pinyin": "wǒ"},
+        {"character": "表", "pinyin": "biǎo"},
+        {"character": "姐", "pinyin": "jiě"},
+        {"character": "海", "pinyin": "hǎi"},
+        {"character": "伦", "pinyin": "lún"},
+        {"character": "，", "pinyin": ""},
+        {"character": "这", "pinyin": "zhè"},
+        {"character": "是", "pinyin": "shì"},
+        {"character": "她", "pinyin": "tā"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "儿", "pinyin": "ér"},
+        {"character": "子", "pinyin": "zi"},
+        {"character": "汤", "pinyin": "tāng"},
+        {"character": "姆", "pinyin": "mǔ"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Hello, Hai Lun.",
+      "words": [
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "好", "pinyin": "hǎo"},
+        {"character": "，", "pinyin": ""},
+        {"character": "海", "pinyin": "hǎi"},
+        {"character": "伦", "pinyin": "lún"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Hello, Wang Peng. In the text, Xiaoyin says you are smart and hardworking.",
+      "words": [
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "好", "pinyin": "hǎo"},
+        {"character": "，", "pinyin": ""},
+        {"character": "王", "pinyin": "wáng"},
+        {"character": "朋", "pinyin": "péng"},
+        {"character": "。", "pinyin": ""},
+        {"character": "文", "pinyin": "wén"},
+        {"character": "中", "pinyin": "zhōng"},
+        {"character": "和", "pinyin": "hé"},
+        {"character": "小", "pinyin": "xiǎo"},
+        {"character": "音", "pinyin": "yīn"},
+        {"character": "都", "pinyin": "dōu"},
+        {"character": "说", "pinyin": "shuō"},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "又", "pinyin": "yòu"},
+        {"character": "聪", "pinyin": "cōng"},
+        {"character": "明", "pinyin": "míng"},
+        {"character": "又", "pinyin": "yòu"},
+        {"character": "用", "pinyin": "yòng"},
+        {"character": "功", "pinyin": "gōng"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "No, no. Your Chinese is really good. Where did you learn it?",
+      "words": [
+        {"character": "哪", "pinyin": "nǎ"},
+        {"character": "里", "pinyin": "lǐ"},
+        {"character": "，", "pinyin": ""},
+        {"character": "哪", "pinyin": "nǎ"},
+        {"character": "里", "pinyin": "lǐ"},
+        {"character": "。", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "中", "pinyin": "zhōng"},
+        {"character": "文", "pinyin": "wén"},
+        {"character": "说", "pinyin": "shuō"},
+        {"character": "得", "pinyin": "de"},
+        {"character": "真", "pinyin": "zhēn"},
+        {"character": "好", "pinyin": "hǎo"},
+        {"character": "，", "pinyin": ""},
+        {"character": "是", "pinyin": "shì"},
+        {"character": "在", "pinyin": "zài"},
+        {"character": "哪", "pinyin": "nǎ"},
+        {"character": "儿", "pinyin": "r"},
+        {"character": "学", "pinyin": "xué"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "？", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "I learned it in summer school.",
+      "words": [
+        {"character": "在", "pinyin": "zài"},
+        {"character": "暑", "pinyin": "shǔ"},
+        {"character": "期", "pinyin": "qī"},
+        {"character": "班", "pinyin": "bān"},
+        {"character": "学", "pinyin": "xué"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Wow, Tangmu has grown so cute! Look, he's smiling. How old is he?",
+      "words": [
+        {"character": "哎", "pinyin": "āi"},
+        {"character": "，", "pinyin": ""},
+        {"character": "汤", "pinyin": "tāng"},
+        {"character": "姆", "pinyin": "mǔ"},
+        {"character": "长", "pinyin": "zhǎng"},
+        {"character": "得", "pinyin": "de"},
+        {"character": "真", "pinyin": "zhēn"},
+        {"character": "可", "pinyin": "kě"},
+        {"character": "爱", "pinyin": "ài"},
+        {"character": "！", "pinyin": ""},
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "看", "pinyin": "kàn"},
+        {"character": "，", "pinyin": ""},
+        {"character": "他", "pinyin": "tā"},
+        {"character": "笑", "pinyin": "xiào"},
+        {"character": "了", "pinyin": "le"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "How old is he?",
+      "words": [
+        {"character": "他", "pinyin": "tā"},
+        {"character": "几", "pinyin": "jǐ"},
+        {"character": "岁", "pinyin": "suì"},
+        {"character": "？", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Just one year old, born last year, year of the dog.",
+      "words": [
+        {"character": "刚", "pinyin": "gāng"},
+        {"character": "一", "pinyin": "yī"},
+        {"character": "岁", "pinyin": "suì"},
+        {"character": "，", "pinyin": ""},
+        {"character": "是", "pinyin": "shì"},
+        {"character": "去", "pinyin": "qù"},
+        {"character": "年", "pinyin": "nián"},
+        {"character": "生", "pinyin": "shēng"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "，", "pinyin": ""},
+        {"character": "属", "pinyin": "shǔ"},
+        {"character": "狗", "pinyin": "gǒu"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Look, his face is round, his eyes are big, his nose is tall, his mouth is not big or small, he looks a lot like Hai Lun.",
+      "words": [
+        {"character": "你", "pinyin": "nǐ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "看", "pinyin": "kàn"},
+        {"character": "，", "pinyin": ""},
+        {"character": "他", "pinyin": "tā"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "脸", "pinyin": "liǎn"},
+        {"character": "圆", "pinyin": "yuán"},
+        {"character": "圆", "pinyin": "yuán"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "，", "pinyin": ""},
+        {"character": "眼", "pinyin": "yǎn"},
+        {"character": "睛", "pinyin": "jīng"},
+        {"character": "大", "pinyin": "dà"},
+        {"character": "大的", "pinyin": "dà"},
+        {"character": "，", "pinyin": ""},
+        {"character": "鼻", "pinyin": "bí"},
+        {"character": "子", "pinyin": "zi"},
+        {"character": "高", "pinyin": "gāo"},
+        {"character": "高", "pinyin": "gāo"},
+        {"character": "的", "pinyin": "de"},
+        {"character": "，", "pinyin": ""},
+        {"character": "嘴", "pinyin": "zuǐ"},
+        {"character": "不", "pinyin": "bù"},
+        {"character": "大", "pinyin": "dà"},
+        {"character": "也", "pinyin": "yě"},
+        {"character": "不", "pinyin": "bù"},
+        {"character": "小", "pinyin": "xiǎo"},
+        {"character": "，", "pinyin": ""},
+        {"character": "长", "pinyin": "zhǎng"},
+        {"character": "得", "pinyin": "de"},
+        {"character": "很", "pinyin": "hěn"},
+        {"character": "像", "pinyin": "xiàng"},
+        {"character": "海", "pinyin": "hǎi"},
+        {"character": "伦", "pinyin": "lún"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Mom is so pretty, her son will definitely be handsome when he grows up.",
+      "words": [
+        {"character": "妈", "pinyin": "mā"},
+        {"character": "妈", "pinyin": "mā"},
+        {"character": "这", "pinyin": "zhè"},
+        {"character": "么", "pinyin": "me"},
+        {"character": "漂", "pinyin": "piào"},
+        {"character": "亮", "pinyin": "liàng"},
+        {"character": "，", "pinyin": ""},
+        {"character": "儿", "pinyin": "ér"},
+        {"character": "子", "pinyin": "zi"},
+        {"character": "长", "pinyin": "zhǎng"},
+        {"character": "大", "pinyin": "dà"},
+        {"character": "一", "pinyin": "yī"},
+        {"character": "定", "pinyin": "dìng"},
+        {"character": "也", "pinyin": "yě"},
+        {"character": "很", "pinyin": "hěn"},
+        {"character": "帅", "pinyin": "shuài"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Come, come, let's eat cake.",
+      "words": [
+        {"character": "来", "pinyin": "lái"},
+        {"character": "，", "pinyin": ""},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "，", "pinyin": ""},
+        {"character": "来", "pinyin": "lái"},
+        {"character": "，", "pinyin": ""},
+        {"character": "我", "pinyin": "wǒ"},
+        {"character": "们", "pinyin": "men"},
+        {"character": "吃", "pinyin": "chī"},
+        {"character": "蛋", "pinyin": "dàn"},
+        {"character": "糕", "pinyin": "gāo"},
+        {"character": "吧", "pinyin": "ba"},
+        {"character": "。", "pinyin": ""}
+      ]
+    },
+    {
+      "def": "Wait for Bai Ying'ai. She loves cake.",
+      "words": [
+        {"character": "等", "pinyin": "děng"},
+        {"character": "等", "pinyin": "děng"},
+        {"character": "白", "pinyin": "bái"},
+        {"character": "英", "pinyin": "yīng"},
+        {"character": "爱", "pinyin": "ài"},
+        {"character": "吧", "pinyin": "ba"},
+        {"character": "。", "pinyin": ""},
+        {"character": "她", "pinyin": "tā"},
+        {"character": "最", "pinyin": "zuì"},
+        {"character": "爱", "pinyin": "ài"},
+        {"character": "吃", "pinyin": "chī"},
+        {"character": "蛋", "pinyin": "dàn"},
+        {"character": "糕", "pinyin": "gāo"},
+        {"character": "。", "pinyin": ""}
+      ]
+    }
+  ]
+}

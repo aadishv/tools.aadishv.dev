@@ -1,0 +1,699 @@
+{
+  "sentences": [
+    {
+      "def": "(Gao Xiaoyin is chatting with her younger brother Gao Wenzhong about the weather...)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "高",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "音",
+          "pinyin": "yīn"
+        },
+        {
+          "character": "跟",
+          "pinyin": "gēn"
+        },
+        {
+          "character": "弟",
+          "pinyin": "dì"
+        },
+        {
+          "character": "弟",
+          "pinyin": "di"
+        },
+        {
+          "character": "高",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "文",
+          "pinyin": "wén"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "聊",
+          "pinyin": "liáo"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Today's weather is better than yesterday's, it's not snowing anymore.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "比",
+          "pinyin": "bǐ"
+        },
+        {
+          "character": "昨",
+          "pinyin": "zuó"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "雪",
+          "pinyin": "xuě"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I've asked a friend to go ice skating in the park tomorrow, I don't know what the weather will be like, will it be cold?",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "朋",
+          "pinyin": "péng"
+        },
+        {
+          "character": "友",
+          "pinyin": "you"
+        },
+        {
+          "character": "明",
+          "pinyin": "míng"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "公",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "园",
+          "pinyin": "yuán"
+        },
+        {
+          "character": "滑",
+          "pinyin": "huá"
+        },
+        {
+          "character": "冰",
+          "pinyin": "bīng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dào"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "会",
+          "pinyin": "huì"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "样",
+          "pinyin": "yàng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "冷",
+          "pinyin": "lěng"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "冷",
+          "pinyin": "lěng"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I just looked at the weather forecast online, tomorrow's weather will be even better than today's.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "刚",
+          "pinyin": "gāng"
+        },
+        {
+          "character": "才",
+          "pinyin": "cái"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "网",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "上",
+          "pinyin": "shang"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "预",
+          "pinyin": "yù"
+        },
+        {
+          "character": "报",
+          "pinyin": "bào"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "明",
+          "pinyin": "míng"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "比",
+          "pinyin": "bǐ"
+        },
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "更",
+          "pinyin": "gèng"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Not only will it not snow, but it will also be a bit warmer.",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "但",
+          "pinyin": "dàn"
+        },
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "会",
+          "pinyin": "huì"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "雪",
+          "pinyin": "xuě"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "而",
+          "pinyin": "ér"
+        },
+        {
+          "character": "且",
+          "pinyin": "qiě"
+        },
+        {
+          "character": "会",
+          "pinyin": "huì"
+        },
+        {
+          "character": "暖",
+          "pinyin": "nuǎn"
+        },
+        {
+          "character": "和",
+          "pinyin": "huo"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎnr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Really? That's great!",
+      "words": [
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        },
+        {
+          "character": "太",
+          "pinyin": "tài"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "！",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Who did you ask to go ice skating?",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "谁",
+          "pinyin": "shéi"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "滑",
+          "pinyin": "huá"
+        },
+        {
+          "character": "冰",
+          "pinyin": "bīng"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Bai Ying'ai.",
+      "words": [
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "英",
+          "pinyin": "yīng"
+        },
+        {
+          "character": "爱",
+          "pinyin": "ài"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "You asked Bai Ying'ai? But she took a plane to New York this morning.",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "英",
+          "pinyin": "yīng"
+        },
+        {
+          "character": "爱",
+          "pinyin": "ài"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        },
+        {
+          "character": "可",
+          "pinyin": "kě"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "她",
+          "pinyin": "tā"
+        },
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "早",
+          "pinyin": "zǎo"
+        },
+        {
+          "character": "上",
+          "pinyin": "shang"
+        },
+        {
+          "character": "坐",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "飞",
+          "pinyin": "fēi"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "纽",
+          "pinyin": "niǔ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Really? Then what should I do tomorrow?",
+      "words": [
+        {
+          "character": "真",
+          "pinyin": "zhēn"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "啊",
+          "pinyin": "a"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "明",
+          "pinyin": "míng"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "办",
+          "pinyin": "bàn"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "You should just stay home and watch TV!",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "是",
+          "pinyin": "shi"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "电",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "视",
+          "pinyin": "shì"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "！",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "sentences": [
+    {
+      "def": "I like to eat oranges.",
+      "words": [
+        { "character": "我", "pinyin": "wǒ" },
+        { "character": "喜", "pinyin": "xǐ" },
+        { "character": "欢", "pinyin": "huan" },
+        { "character": "吃", "pinyin": "chī" },
+        { "character": "橘", "pinyin": "jú" },
+        { "character": "子", "pinyin": "zi" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "She doesn't like strawberries.",
+      "words": [
+        { "character": "她", "pinyin": "tā" },
+        { "character": "不", "pinyin": "bù" },
+        { "character": "喜", "pinyin": "xǐ" },
+        { "character": "欢", "pinyin": "huan" },
+        { "character": "草", "pinyin": "cǎo" },
+        { "character": "莓", "pinyin": "méi" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Do you want to eat a banana?",
+      "words": [
+        { "character": "你", "pinyin": "nǐ" },
+        { "character": "要", "pinyin": "yào" },
+        { "character": "吃", "pinyin": "chī" },
+        { "character": "香", "pinyin": "xiāng" },
+        { "character": "蕉", "pinyin": "jiāo" },
+        { "character": "吗", "pinyin": "ma" },
+        { "character": "？", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Grapes are very sweet.",
+      "words": [
+        { "character": "葡", "pinyin": "pú" },
+        { "character": "萄", "pinyin": "táo" },
+        { "character": "很", "pinyin": "hěn" },
+        { "character": "甜", "pinyin": "tián" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "I don't like lemons.",
+      "words": [
+        { "character": "我", "pinyin": "wǒ" },
+        { "character": "不", "pinyin": "bù" },
+        { "character": "喜", "pinyin": "xǐ" },
+        { "character": "欢", "pinyin": "huan" },
+        { "character": "柠", "pinyin": "níng" },
+        { "character": "檬", "pinyin": "méng" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Plums are sour.",
+      "words": [
+        { "character": "李", "pinyin": "lǐ" },
+        { "character": "子", "pinyin": "zi" },
+        { "character": "很", "pinyin": "hěn" },
+        { "character": "酸", "pinyin": "suān" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "I want to eat chocolate.",
+      "words": [
+        { "character": "我", "pinyin": "wǒ" },
+        { "character": "想", "pinyin": "xiǎng" },
+        { "character": "吃", "pinyin": "chī" },
+        { "character": "巧", "pinyin": "qiǎo" },
+        { "character": "克", "pinyin": "kè" },
+        { "character": "力", "pinyin": "lì" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Do you drink soda?",
+      "words": [
+        { "character": "你", "pinyin": "nǐ" },
+        { "character": "喝", "pinyin": "hē" },
+        { "character": "汽", "pinyin": "qì" },
+        { "character": "水", "pinyin": "shuǐ" },
+        { "character": "吗", "pinyin": "ma" },
+        { "character": "？", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Fruit juice is delicious.",
+      "words": [
+        { "character": "果", "pinyin": "guǒ" },
+        { "character": "汁", "pinyin": "zhī" },
+        { "character": "很", "pinyin": "hěn" },
+        { "character": "好", "pinyin": "hǎo" },
+        { "character": "喝", "pinyin": "hē" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "He doesn't drink alcohol.",
+      "words": [
+        { "character": "他", "pinyin": "tā" },
+        { "character": "不", "pinyin": "bù" },
+        { "character": "喝", "pinyin": "hē" },
+        { "character": "酒", "pinyin": "jiǔ" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Today is my birthday, I want to eat cake.",
+      "words": [
+        { "character": "今", "pinyin": "jīn" },
+        { "character": "天", "pinyin": "tiān" },
+        { "character": "是", "pinyin": "shì" },
+        { "character": "我", "pinyin": "wǒ" },
+        { "character": "的", "pinyin": "de" },
+        { "character": "生", "pinyin": "shēng" },
+        { "character": "日", "pinyin": "rì" },
+        { "character": "，", "pinyin": "" },
+        { "character": "我", "pinyin": "wǒ" },
+        { "character": "想", "pinyin": "xiǎng" },
+        { "character": "吃", "pinyin": "chī" },
+        { "character": "蛋", "pinyin": "dàn" },
+        { "character": "糕", "pinyin": "gāo" },
+        { "character": "。", "pinyin": "" }
+      ]
+    }
+  ]
+}

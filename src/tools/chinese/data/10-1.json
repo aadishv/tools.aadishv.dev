@@ -1,0 +1,749 @@
+{
+  "sentences": [
+    {
+      "def": "Li You talks with Wang Peng...",
+      "words": [
+        {
+          "character": "李",
+          "pinyin": "Lǐ"
+        },
+        {
+          "character": "友",
+          "pinyin": "Yǒu"
+        },
+        {
+          "character": "跟",
+          "pinyin": "gēn"
+        },
+        {
+          "character": "王",
+          "pinyin": "Wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "Péng"
+        },
+        {
+          "character": "说",
+          "pinyin": "shuō"
+        },
+        {
+          "character": "话",
+          "pinyin": "huà"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Li You, are you going home for winter break?",
+      "words": [
+        {
+          "character": "李",
+          "pinyin": "Lǐ"
+        },
+        {
+          "character": "友",
+          "pinyin": "Yǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "寒",
+          "pinyin": "hán"
+        },
+        {
+          "character": "假",
+          "pinyin": "jià"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "回",
+          "pinyin": "huí"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Yes, I need to go home.",
+      "words": [
+        {
+          "character": "对",
+          "pinyin": "Duì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "要",
+          "pinyin": "yào"
+        },
+        {
+          "character": "回",
+          "pinyin": "huí"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Have you bought your plane ticket?",
+      "words": [
+        {
+          "character": "飞",
+          "pinyin": "Fēi"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "票",
+          "pinyin": "piào"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "买",
+          "pinyin": "mǎi"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I've already bought it. It's for the 21st.",
+      "words": [
+        {
+          "character": "已",
+          "pinyin": "Yǐ"
+        },
+        {
+          "character": "经",
+          "pinyin": "jīng"
+        },
+        {
+          "character": "买",
+          "pinyin": "mǎi"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "是",
+          "pinyin": "Shì"
+        },
+        {
+          "character": "二",
+          "pinyin": "èr"
+        },
+        {
+          "character": "十",
+          "pinyin": "shí"
+        },
+        {
+          "character": "一",
+          "pinyin": "yī"
+        },
+        {
+          "character": "号",
+          "pinyin": "hào"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "What time is the flight?",
+      "words": [
+        {
+          "character": "飞",
+          "pinyin": "Fēi"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "几",
+          "pinyin": "jǐ"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Eight o'clock in the evening.",
+      "words": [
+        {
+          "character": "晚",
+          "pinyin": "Wǎn"
+        },
+        {
+          "character": "上",
+          "pinyin": "shang"
+        },
+        {
+          "character": "八",
+          "pinyin": "bā"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "How are you getting to the airport?",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "Nǐ"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "场",
+          "pinyin": "chǎng"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I'm thinking of taking the bus or the subway.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "Wǒ"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "坐",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "公",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "共",
+          "pinyin": "gòng"
+        },
+        {
+          "character": "汽",
+          "pinyin": "qì"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "或",
+          "pinyin": "huò"
+        },
+        {
+          "character": "者",
+          "pinyin": "zhě"
+        },
+        {
+          "character": "坐",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "铁",
+          "pinyin": "tiě"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Do you know how to get there?",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "Nǐ"
+        },
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dao"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "走",
+          "pinyin": "zǒu"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "You first take bus number one, get off after three stops, then transfer to the subway.",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "Nǐ"
+        },
+        {
+          "character": "先",
+          "pinyin": "xiān"
+        },
+        {
+          "character": "坐",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "路",
+          "pinyin": "lù"
+        },
+        {
+          "character": "汽",
+          "pinyin": "qì"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "坐",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "三",
+          "pinyin": "sān"
+        },
+        {
+          "character": "站",
+          "pinyin": "zhàn"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "然",
+          "pinyin": "rán"
+        },
+        {
+          "character": "后",
+          "pinyin": "hòu"
+        },
+        {
+          "character": "换",
+          "pinyin": "huàn"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "铁",
+          "pinyin": "tiě"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "First take the red line, then change to the green line, finally change to the blue line.",
+      "words": [
+        {
+          "character": "先",
+          "pinyin": "Xiān"
+        },
+        {
+          "character": "坐",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "红",
+          "pinyin": "hóng"
+        },
+        {
+          "character": "线",
+          "pinyin": "xiàn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "再",
+          "pinyin": "zài"
+        },
+        {
+          "character": "换",
+          "pinyin": "huàn"
+        },
+        {
+          "character": "绿",
+          "pinyin": "lǜ"
+        },
+        {
+          "character": "线",
+          "pinyin": "xiàn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "最",
+          "pinyin": "zuì"
+        },
+        {
+          "character": "后",
+          "pinyin": "hòu"
+        },
+        {
+          "character": "换",
+          "pinyin": "huàn"
+        },
+        {
+          "character": "蓝",
+          "pinyin": "lán"
+        },
+        {
+          "character": "线",
+          "pinyin": "xiàn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No, no, that's too much trouble.",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "Bù"
+        },
+        {
+          "character": "行",
+          "pinyin": "xíng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "行",
+          "pinyin": "xíng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "太",
+          "pinyin": "tài"
+        },
+        {
+          "character": "麻",
+          "pinyin": "má"
+        },
+        {
+          "character": "烦",
+          "pinyin": "fan"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I'd better take a cab.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "Wǒ"
+        },
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "是",
+          "pinyin": "shi"
+        },
+        {
+          "character": "打",
+          "pinyin": "dǎ"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Taxis are too expensive, I'll drive you there.",
+      "words": [
+        {
+          "character": "出",
+          "pinyin": "Chū"
+        },
+        {
+          "character": "租",
+          "pinyin": "zū"
+        },
+        {
+          "character": "汽",
+          "pinyin": "qì"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "太",
+          "pinyin": "tài"
+        },
+        {
+          "character": "贵",
+          "pinyin": "guì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "送",
+          "pinyin": "sòng"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Thank you.",
+      "words": [
+        {
+          "character": "谢",
+          "pinyin": "Xiè"
+        },
+        {
+          "character": "谢",
+          "pinyin": "xie"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "You're welcome.",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "Bú"
+        },
+        {
+          "character": "用",
+          "pinyin": "yòng"
+        },
+        {
+          "character": "客",
+          "pinyin": "kè"
+        },
+        {
+          "character": "气",
+          "pinyin": "qi"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

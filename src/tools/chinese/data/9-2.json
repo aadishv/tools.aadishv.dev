@@ -1,0 +1,714 @@
+{
+  "sentences": [
+    {
+      "def": "Wang Peng wants to exchange a pair of shoes, he asks the salesperson...",
+      "words": [
+        {
+          "character": "王",
+          "pinyin": "Wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "Péng"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "换",
+          "pinyin": "huàn"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "鞋",
+          "pinyin": "xié"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "他",
+          "pinyin": "tā"
+        },
+        {
+          "character": "问",
+          "pinyin": "wèn"
+        },
+        {
+          "character": "售",
+          "pinyin": "shòu"
+        },
+        {
+          "character": "货",
+          "pinyin": "huò"
+        },
+        {
+          "character": "员",
+          "pinyin": "yuán"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Excuse me, this pair of shoes is too small.",
+      "words": [
+        {
+          "character": "对",
+          "pinyin": "Duì"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "起",
+          "pinyin": "qǐ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "鞋",
+          "pinyin": "xié"
+        },
+        {
+          "character": "太",
+          "pinyin": "tài"
+        },
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Can I exchange them for another pair?",
+      "words": [
+        {
+          "character": "能",
+          "pinyin": "Néng"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "换",
+          "pinyin": "huàn"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No problem.",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "Méi"
+        },
+        {
+          "character": "问",
+          "pinyin": "wèn"
+        },
+        {
+          "character": "题",
+          "pinyin": "tí"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Look, how about this pair?",
+      "words": [
+        {
+          "character": "您",
+          "pinyin": "Nín"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "样",
+          "pinyin": "yàng"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Also not okay, this pair is the same size as that pair.",
+      "words": [
+        {
+          "character": "也",
+          "pinyin": "Yě"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "行",
+          "pinyin": "xíng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "跟",
+          "pinyin": "gēn"
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "样",
+          "pinyin": "yàng"
+        },
+        {
+          "character": "大",
+          "pinyin": "dà"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Then what about this black pair?",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "Nà"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "黑",
+          "pinyin": "hēi"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "呢",
+          "pinyin": "ne"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Although this pair of shoes is the right size, the color is not good.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "Zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "鞋",
+          "pinyin": "xié"
+        },
+        {
+          "character": "虽",
+          "pinyin": "suī"
+        },
+        {
+          "character": "然",
+          "pinyin": "rán"
+        },
+        {
+          "character": "大",
+          "pinyin": "dà"
+        },
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "合",
+          "pinyin": "hé"
+        },
+        {
+          "character": "适",
+          "pinyin": "shì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "可",
+          "pinyin": "kě"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "颜",
+          "pinyin": "yán"
+        },
+        {
+          "character": "色",
+          "pinyin": "sè"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Do you have them in brown?",
+      "words": [
+        {
+          "character": "有",
+          "pinyin": "Yǒu"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "咖",
+          "pinyin": "kā"
+        },
+        {
+          "character": "啡",
+          "pinyin": "fēi"
+        },
+        {
+          "character": "色",
+          "pinyin": "sè"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Sorry, this type of shoe only comes in black.",
+      "words": [
+        {
+          "character": "对",
+          "pinyin": "Duì"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "起",
+          "pinyin": "qǐ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "种",
+          "pinyin": "zhǒng"
+        },
+        {
+          "character": "鞋",
+          "pinyin": "xié"
+        },
+        {
+          "character": "只",
+          "pinyin": "zhǐ"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "黑",
+          "pinyin": "hēi"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "This pair's style is quite good, I'll take them.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "Zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "鞋",
+          "pinyin": "xié"
+        },
+        {
+          "character": "样",
+          "pinyin": "yàng"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "挺",
+          "pinyin": "tǐng"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "它",
+          "pinyin": "tā"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Can I use a credit card here?",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "Nǐ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhèr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "可",
+          "pinyin": "kě"
+        },
+        {
+          "character": "以",
+          "pinyin": "yǐ"
+        },
+        {
+          "character": "刷",
+          "pinyin": "shuā"
+        },
+        {
+          "character": "卡",
+          "pinyin": "kǎ"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Sorry, we don't accept credit cards.",
+      "words": [
+        {
+          "character": "对",
+          "pinyin": "Duì"
+        },
+        {
+          "character": "不",
+          "pinyin": "bu"
+        },
+        {
+          "character": "起",
+          "pinyin": "qǐ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "收",
+          "pinyin": "shōu"
+        },
+        {
+          "character": "信",
+          "pinyin": "xìn"
+        },
+        {
+          "character": "用",
+          "pinyin": "yòng"
+        },
+        {
+          "character": "卡",
+          "pinyin": "kǎ"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "However, this pair's price is the same as that pair, you don't need to pay again.",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "Bú"
+        },
+        {
+          "character": "过",
+          "pinyin": "guò"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "跟",
+          "pinyin": "gēn"
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "双",
+          "pinyin": "shuāng"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "样",
+          "pinyin": "yàng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "您",
+          "pinyin": "nín"
+        },
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "用",
+          "pinyin": "yòng"
+        },
+        {
+          "character": "再",
+          "pinyin": "zài"
+        },
+        {
+          "character": "付",
+          "pinyin": "fù"
+        },
+        {
+          "character": "钱",
+          "pinyin": "qián"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

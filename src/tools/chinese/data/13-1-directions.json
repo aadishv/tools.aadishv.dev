@@ -1,0 +1,545 @@
+{
+  "sentences": [
+    {
+      "def": "The book is on the table.",
+      "words": [
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "桌",
+          "pinyin": "zhuō"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "上",
+          "pinyin": "shàng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The cat is under the chair.",
+      "words": [
+        {
+          "character": "猫",
+          "pinyin": "māo"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "椅",
+          "pinyin": "yǐ"
+        },
+        {
+          "character": "子",
+          "pinyin": "zi"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "面",
+          "pinyin": "miàn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The bank is in front of the school.",
+      "words": [
+        {
+          "character": "银",
+          "pinyin": "yín"
+        },
+        {
+          "character": "行",
+          "pinyin": "háng"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "校",
+          "pinyin": "xiào"
+        },
+        {
+          "character": "前",
+          "pinyin": "qián"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The park is behind my house.",
+      "words": [
+        {
+          "character": "公",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "园",
+          "pinyin": "yuán"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "家",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "后",
+          "pinyin": "hòu"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The bookstore is to the left of the dorm.",
+      "words": [
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "店",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "宿",
+          "pinyin": "sù"
+        },
+        {
+          "character": "舍",
+          "pinyin": "shè"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "左",
+          "pinyin": "zuǒ"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The computer center is to the right of the library.",
+      "words": [
+        {
+          "character": "电",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "脑",
+          "pinyin": "nǎo"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "馆",
+          "pinyin": "guǎn"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "右",
+          "pinyin": "yòu"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The sports field is on the east side of the school.",
+      "words": [
+        {
+          "character": "运",
+          "pinyin": "yùn"
+        },
+        {
+          "character": "动",
+          "pinyin": "dòng"
+        },
+        {
+          "character": "场",
+          "pinyin": "chǎng"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "校",
+          "pinyin": "xiào"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "东",
+          "pinyin": "dōng"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Wang Peng's dorm is on the south side.",
+      "words": [
+        {
+          "character": "王",
+          "pinyin": "wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "péng"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "宿",
+          "pinyin": "sù"
+        },
+        {
+          "character": "舍",
+          "pinyin": "shè"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "南",
+          "pinyin": "nán"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The student activity center is on the west side.",
+      "words": [
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "生",
+          "pinyin": "shēng"
+        },
+        {
+          "character": "活",
+          "pinyin": "huó"
+        },
+        {
+          "character": "动",
+          "pinyin": "dòng"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "西",
+          "pinyin": "xī"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The school is north of the park.",
+      "words": [
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "校",
+          "pinyin": "xiào"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "公",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "园",
+          "pinyin": "yuán"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "北",
+          "pinyin": "běi"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The bookstore is inside the student center.",
+      "words": [
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "店",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "生",
+          "pinyin": "shēng"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "里",
+          "pinyin": "lǐ"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It's too cold outside, I don't want to go out.",
+      "words": [
+        {
+          "character": "外",
+          "pinyin": "wài"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "太",
+          "pinyin": "tài"
+        },
+        {
+          "character": "冷",
+          "pinyin": "lěng"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "出",
+          "pinyin": "chū"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The coffee shop is next to the bookstore.",
+      "words": [
+        {
+          "character": "咖",
+          "pinyin": "kā"
+        },
+        {
+          "character": "啡",
+          "pinyin": "fēi"
+        },
+        {
+          "character": "店",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "店",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "旁",
+          "pinyin": "páng"
+        },
+        {
+          "character": "边",
+          "pinyin": "biān"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

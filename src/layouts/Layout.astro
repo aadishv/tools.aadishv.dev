@@ -1,0 +1,93 @@
+---
+import "@/styles/globals.css";
+import { ClientRouter } from "astro:transitions";
+import Analytics from "./Analytics.astro";
+const { title, tool, hideName, description, image } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <ClientRouter />
+    <meta property="og:title" content={title} />
+    {
+    description && (
+    <meta property="og:description" content={description} />
+    <meta name="description" content={description} />
+    )
+    }
+    <meta property="og:image" content={image ?? "https://aadishv.dev/og.png"} />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content={image ?? "https://aadishv.dev/og.png"} />
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <title>{title}</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Aadish Verma Tools Feed"
+      href="/rss.xml"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <meta
+      name="google-site-verification"
+      content="-e3sQUiyjUpdegTe0TMDBOnz5Z34OHkikLI87igRFro"
+    />
+    <link
+      rel="preload"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+    />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"
+    ></script>
+    <style is:inline>
+      /* for rehype */
+      .anchor-link:not(.anchor-link:hover) {
+        color: gray;
+      }
+      .anchor-link {
+          float: right;
+          margin-right: 0.75rem;
+          font-weight: 300 !important;
+      }
+    </style>
+  </head>
+  <body>
+    <script lang="ts">
+      // KaTeX
+      document.addEventListener("DOMContentLoaded", () => {
+        renderMathInElement(document.body, {
+          delimiters: [
+            { left: "$$", right: "$$", display: true },
+            { left: "\\[", right: "\\]", display: true },
+            { left: "$", right: "$", display: false },
+            { left: "\\(", right: "\\)", display: false },
+          ],
+        });
+      });
+    </script>
+    <slot />
+    {
+      import.meta.env.PROD ? (
+        <Analytics />
+      ) : (
+        (() => {
+          console.log("dev deployment; not using analytics.");
+          return false;
+        })()
+      )
+    }
+  </body>
+</html>

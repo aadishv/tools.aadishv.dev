@@ -1,0 +1,348 @@
+{
+  "sentences": [
+    {
+      "def": "It's windy today.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "风",
+          "pinyin": "fēng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Today is comfortably cool.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "凉",
+          "pinyin": "liáng"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Today is a sunny day.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "晴",
+          "pinyin": "qíng"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It is cloudy today.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "云",
+          "pinyin": "yún"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Yesterday was an overcast day.",
+      "words": [
+        {
+          "character": "昨",
+          "pinyin": "zuó"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "阴",
+          "pinyin": "yīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It's thundering.",
+      "words": [
+        {
+          "character": "打",
+          "pinyin": "dǎ"
+        },
+        {
+          "character": "雷",
+          "pinyin": "léi"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "There was a strong rainstorm yesterday.",
+      "words": [
+        {
+          "character": "昨",
+          "pinyin": "zuó"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "暴",
+          "pinyin": "bào"
+        },
+        {
+          "character": "风",
+          "pinyin": "fēng"
+        },
+        {
+          "character": "雨",
+          "pinyin": "yǔ"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "There was a blizzard yesterday.",
+      "words": [
+        {
+          "character": "昨",
+          "pinyin": "zuó"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "暴",
+          "pinyin": "bào"
+        },
+        {
+          "character": "风",
+          "pinyin": "fēng"
+        },
+        {
+          "character": "雪",
+          "pinyin": "xuě"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Today is very hot and humid.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "闷",
+          "pinyin": "mēn"
+        },
+        {
+          "character": "热",
+          "pinyin": "rè"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I like this season.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "喜",
+          "pinyin": "xǐ"
+        },
+        {
+          "character": "欢",
+          "pinyin": "huan"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "季",
+          "pinyin": "jì"
+        },
+        {
+          "character": "节",
+          "pinyin": "jié"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "What's the temperature today?",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "几",
+          "pinyin": "jǐ"
+        },
+        {
+          "character": "度",
+          "pinyin": "dù"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Today is relatively cold.",
+      "words": [
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "比",
+          "pinyin": "bǐ"
+        },
+        {
+          "character": "较",
+          "pinyin": "jiào"
+        },
+        {
+          "character": "冷",
+          "pinyin": "lěng"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

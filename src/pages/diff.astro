@@ -1,0 +1,8 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import App from "@/tools/diff.tsx";
+---
+
+<Layout title="simplest diff tool ever">
+  <App client:only="react" />
+</Layout>

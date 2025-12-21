@@ -1,0 +1,1288 @@
+{
+  "sentences": [
+    {
+      "def": "(Gao Wenzhong is looking for Wang Peng to go eat in Chinatown...)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "高",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "文",
+          "pinyin": "wén"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "王",
+          "pinyin": "wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "péng"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "城",
+          "pinyin": "chéng"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Let's go to Chinatown to eat Chinese food!",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "城",
+          "pinyin": "chéng"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "！",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I've never been to Chinatown, I don't know where it is.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "过",
+          "pinyin": "guò"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "城",
+          "pinyin": "chéng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dào"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "城",
+          "pinyin": "chéng"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "哪",
+          "pinyin": "nǎ"
+        },
+        {
+          "character": "儿",
+          "pinyin": "r"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No problem, you drive, I'll tell you how to get there.",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "问",
+          "pinyin": "wèn"
+        },
+        {
+          "character": "题",
+          "pinyin": "tí"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "车",
+          "pinyin": "chē"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "告",
+          "pinyin": "gào"
+        },
+        {
+          "character": "诉",
+          "pinyin": "sù"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "走",
+          "pinyin": "zǒu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Do you have Google Maps? Give it to me, let me take a look.",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "谷",
+          "pinyin": "gǔ"
+        },
+        {
+          "character": "歌",
+          "pinyin": "gē"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        },
+        {
+          "character": "拿",
+          "pinyin": "ná"
+        },
+        {
+          "character": "给",
+          "pinyin": "gěi"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "看",
+          "pinyin": "kan"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "My phone is in the dorm, I forgot to bring it.",
+      "words": [
+        {
+          "character": "手",
+          "pinyin": "shǒu"
+        },
+        {
+          "character": "机",
+          "pinyin": "jī"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "宿",
+          "pinyin": "sù"
+        },
+        {
+          "character": "舍",
+          "pinyin": "shè"
+        },
+        {
+          "character": "里",
+          "pinyin": "lǐ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "忘",
+          "pinyin": "wàng"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "带",
+          "pinyin": "dài"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "If we don't have a map, what if we get lost?",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "走",
+          "pinyin": "zǒu"
+        },
+        {
+          "character": "错",
+          "pinyin": "cuò"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "办",
+          "pinyin": "bàn"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No map? No problem. I've been to Chinatown many times, I can find it even without a map.",
+      "words": [
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "关",
+          "pinyin": "guān"
+        },
+        {
+          "character": "系",
+          "pinyin": "xi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "城",
+          "pinyin": "chéng"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "过",
+          "pinyin": "guò"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "次",
+          "pinyin": "cì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "用",
+          "pinyin": "yòng"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "也",
+          "pinyin": "yě"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Just keep going south from here, at the third intersection, go west, and you'll be there.",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "从",
+          "pinyin": "cóng"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "儿",
+          "pinyin": "r"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "直",
+          "pinyin": "zhí"
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "南",
+          "pinyin": "nán"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "第",
+          "pinyin": "dì"
+        },
+        {
+          "character": "三",
+          "pinyin": "sān"
+        },
+        {
+          "character": "个",
+          "pinyin": "gè"
+        },
+        {
+          "character": "路",
+          "pinyin": "lù"
+        },
+        {
+          "character": "口",
+          "pinyin": "kǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "西",
+          "pinyin": "xī"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "拐",
+          "pinyin": "guǎi"
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Oh, I don't know east, south, west, north.",
+      "words": [
+        {
+          "character": "哎",
+          "pinyin": "āi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dào"
+        },
+        {
+          "character": "东",
+          "pinyin": "dōng"
+        },
+        {
+          "character": "南",
+          "pinyin": "nán"
+        },
+        {
+          "character": "西",
+          "pinyin": "xī"
+        },
+        {
+          "character": "北",
+          "pinyin": "běi"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Then just keep going straight, at the third traffic light, turn right and you'll be there.",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "直",
+          "pinyin": "zhí"
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "前",
+          "pinyin": "qián"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "第",
+          "pinyin": "dì"
+        },
+        {
+          "character": "三",
+          "pinyin": "sān"
+        },
+        {
+          "character": "个",
+          "pinyin": "gè"
+        },
+        {
+          "character": "红",
+          "pinyin": "hóng"
+        },
+        {
+          "character": "绿",
+          "pinyin": "lǜ"
+        },
+        {
+          "character": "灯",
+          "pinyin": "dēng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "右",
+          "pinyin": "yòu"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "拐",
+          "pinyin": "guǎi"
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "(They arrive at the third intersection...)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "第",
+          "pinyin": "dì"
+        },
+        {
+          "character": "三",
+          "pinyin": "sān"
+        },
+        {
+          "character": "个",
+          "pinyin": "gè"
+        },
+        {
+          "character": "路",
+          "pinyin": "lù"
+        },
+        {
+          "character": "口",
+          "pinyin": "kǒu"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "No, that's not right. Look, you can only turn left here, not right.",
+      "words": [
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "对",
+          "pinyin": "duì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "对",
+          "pinyin": "duì"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "个",
+          "pinyin": "gè"
+        },
+        {
+          "character": "路",
+          "pinyin": "lù"
+        },
+        {
+          "character": "口",
+          "pinyin": "kǒu"
+        },
+        {
+          "character": "只",
+          "pinyin": "zhǐ"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "左",
+          "pinyin": "zuǒ"
+        },
+        {
+          "character": "拐",
+          "pinyin": "guǎi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "右",
+          "pinyin": "yòu"
+        },
+        {
+          "character": "拐",
+          "pinyin": "guǎi"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Then it's the next intersection. Turn left, then go straight. There, there, do you see it? There are a lot of Chinese characters ahead.",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "个",
+          "pinyin": "gè"
+        },
+        {
+          "character": "路",
+          "pinyin": "lù"
+        },
+        {
+          "character": "口",
+          "pinyin": "kǒu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "左",
+          "pinyin": "zuǒ"
+        },
+        {
+          "character": "拐",
+          "pinyin": "guǎi"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "再",
+          "pinyin": "zài"
+        },
+        {
+          "character": "往",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "前",
+          "pinyin": "qián"
+        },
+        {
+          "character": "开",
+          "pinyin": "kāi"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "看",
+          "pinyin": "kàn"
+        },
+        {
+          "character": "见",
+          "pinyin": "jiàn"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        },
+        {
+          "character": "前",
+          "pinyin": "qián"
+        },
+        {
+          "character": "面",
+          "pinyin": "miàn"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "多",
+          "pinyin": "duō"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "字",
+          "pinyin": "zì"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "That's not Chinese, that's Japanese. We've arrived at Little Tokyo.",
+      "words": [
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "文",
+          "pinyin": "wén"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "日",
+          "pinyin": "rì"
+        },
+        {
+          "character": "文",
+          "pinyin": "wén"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "东",
+          "pinyin": "dōng"
+        },
+        {
+          "character": "京",
+          "pinyin": "jīng"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Really? Then let's not eat Chinese food, let's eat Japanese food!",
+      "words": [
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "国",
+          "pinyin": "guó"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "吃",
+          "pinyin": "chī"
+        },
+        {
+          "character": "日",
+          "pinyin": "rì"
+        },
+        {
+          "character": "本",
+          "pinyin": "běn"
+        },
+        {
+          "character": "饭",
+          "pinyin": "fàn"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "！",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

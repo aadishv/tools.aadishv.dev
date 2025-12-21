@@ -1,0 +1,746 @@
+{
+  "sentences": [
+    {
+      "def": "(Bai Ying'ai just finished class...)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "英",
+          "pinyin": "yīng"
+        },
+        {
+          "character": "爱",
+          "pinyin": "ài"
+        },
+        {
+          "character": "刚",
+          "pinyin": "gāng"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "课",
+          "pinyin": "kè"
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "…",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Little Bai, is class over?",
+      "words": [
+        {
+          "character": "小",
+          "pinyin": "xiǎo"
+        },
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "课",
+          "pinyin": "kè"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Where are you going?",
+      "words": [
+        {
+          "character": "上",
+          "pinyin": "shàng"
+        },
+        {
+          "character": "哪",
+          "pinyin": "nǎr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Hello, Teacher Chang.",
+      "words": [
+        {
+          "character": "您",
+          "pinyin": "nín"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "常",
+          "pinyin": "cháng"
+        },
+        {
+          "character": "老",
+          "pinyin": "lǎo"
+        },
+        {
+          "character": "师",
+          "pinyin": "shī"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I want to go to the school's computer center, but I don't know how to get there. I heard it's next to the sports field.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "校",
+          "pinyin": "xiào"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "电",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "脑",
+          "pinyin": "nǎo"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dào"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "走",
+          "pinyin": "zǒu"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "听",
+          "pinyin": "tīng"
+        },
+        {
+          "character": "说",
+          "pinyin": "shuō"
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "运",
+          "pinyin": "yùn"
+        },
+        {
+          "character": "动",
+          "pinyin": "dòng"
+        },
+        {
+          "character": "场",
+          "pinyin": "chǎng"
+        },
+        {
+          "character": "旁",
+          "pinyin": "páng"
+        },
+        {
+          "character": "边",
+          "pinyin": "biān"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The computer center is not as far as the sports field.",
+      "words": [
+        {
+          "character": "电",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "脑",
+          "pinyin": "nǎo"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "运",
+          "pinyin": "yùn"
+        },
+        {
+          "character": "动",
+          "pinyin": "dòng"
+        },
+        {
+          "character": "场",
+          "pinyin": "chǎng"
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "远",
+          "pinyin": "yuǎn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Do you know where the school library is?",
+      "words": [
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dào"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "校",
+          "pinyin": "xiào"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "馆",
+          "pinyin": "guǎn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "哪",
+          "pinyin": "nǎ"
+        },
+        {
+          "character": "里",
+          "pinyin": "lǐ"
+        },
+        {
+          "character": "吗",
+          "pinyin": "ma"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I know. It's not far from Wang Peng's dorm.",
+      "words": [
+        {
+          "character": "知",
+          "pinyin": "zhī"
+        },
+        {
+          "character": "道",
+          "pinyin": "dào"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "离",
+          "pinyin": "lí"
+        },
+        {
+          "character": "王",
+          "pinyin": "wáng"
+        },
+        {
+          "character": "朋",
+          "pinyin": "péng"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "宿",
+          "pinyin": "sù"
+        },
+        {
+          "character": "舍",
+          "pinyin": "shè"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "远",
+          "pinyin": "yuǎn"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The computer center is very close to the library, it's right between the library and the student activity center.",
+      "words": [
+        {
+          "character": "电",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "脑",
+          "pinyin": "nǎo"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "离",
+          "pinyin": "lí"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "馆",
+          "pinyin": "guǎn"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "近",
+          "pinyin": "jìn"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "图",
+          "pinyin": "tú"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "馆",
+          "pinyin": "guǎn"
+        },
+        {
+          "character": "和",
+          "pinyin": "hé"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "生",
+          "pinyin": "shēng"
+        },
+        {
+          "character": "活",
+          "pinyin": "huó"
+        },
+        {
+          "character": "动",
+          "pinyin": "dòng"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "间",
+          "pinyin": "jiān"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Teacher Chang, where are you going?",
+      "words": [
+        {
+          "character": "常",
+          "pinyin": "cháng"
+        },
+        {
+          "character": "老",
+          "pinyin": "lǎo"
+        },
+        {
+          "character": "师",
+          "pinyin": "shī"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "您",
+          "pinyin": "nín"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "哪",
+          "pinyin": "nǎr"
+        },
+        {
+          "character": "儿",
+          "pinyin": ""
+        },
+        {
+          "character": "呢",
+          "pinyin": "ne"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I want to go to the school bookstore to buy books.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "想",
+          "pinyin": "xiǎng"
+        },
+        {
+          "character": "到",
+          "pinyin": "dào"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "校",
+          "pinyin": "xiào"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "店",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "买",
+          "pinyin": "mǎi"
+        },
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Where is the bookstore?",
+      "words": [
+        {
+          "character": "书",
+          "pinyin": "shū"
+        },
+        {
+          "character": "店",
+          "pinyin": "diàn"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "什",
+          "pinyin": "shén"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "地",
+          "pinyin": "dì"
+        },
+        {
+          "character": "方",
+          "pinyin": "fāng"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It's inside the student activity center.",
+      "words": [
+        {
+          "character": "就",
+          "pinyin": "jiù"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "学",
+          "pinyin": "xué"
+        },
+        {
+          "character": "生",
+          "pinyin": "shēng"
+        },
+        {
+          "character": "活",
+          "pinyin": "huó"
+        },
+        {
+          "character": "动",
+          "pinyin": "dòng"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "心",
+          "pinyin": "xīn"
+        },
+        {
+          "character": "里",
+          "pinyin": "lǐ"
+        },
+        {
+          "character": "边",
+          "pinyin": "bian"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Let's go together.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "们",
+          "pinyin": "men"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "起",
+          "pinyin": "qǐ"
+        },
+        {
+          "character": "走",
+          "pinyin": "zǒu"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

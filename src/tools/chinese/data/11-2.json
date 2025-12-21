@@ -1,0 +1,721 @@
+{
+  "sentences": [
+    {
+      "def": "(Gao Wenzhong is online looking for Bai Ying'ai to chat.)",
+      "words": [
+        {
+          "character": "（",
+          "pinyin": ""
+        },
+        {
+          "character": "高",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "文",
+          "pinyin": "wén"
+        },
+        {
+          "character": "中",
+          "pinyin": "zhōng"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "网",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "上",
+          "pinyin": "shàng"
+        },
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "白",
+          "pinyin": "bái"
+        },
+        {
+          "character": "英",
+          "pinyin": "yīng"
+        },
+        {
+          "character": "爱",
+          "pinyin": "ài"
+        },
+        {
+          "character": "聊",
+          "pinyin": "liáo"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "）",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "Ying'ai, New York is so much fun. How come you're online and haven't gone out?",
+      "words": [
+        {
+          "character": "英",
+          "pinyin": "yīng"
+        },
+        {
+          "character": "爱",
+          "pinyin": "ài"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "纽",
+          "pinyin": "niǔ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "那",
+          "pinyin": "nà"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "玩",
+          "pinyin": "wán"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "网",
+          "pinyin": "wǎng"
+        },
+        {
+          "character": "上",
+          "pinyin": "shàng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "没",
+          "pinyin": "méi"
+        },
+        {
+          "character": "出",
+          "pinyin": "chū"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The weather here is awful.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "的",
+          "pinyin": "de"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "非",
+          "pinyin": "fēi"
+        },
+        {
+          "character": "常",
+          "pinyin": "cháng"
+        },
+        {
+          "character": "糟",
+          "pinyin": "zāo"
+        },
+        {
+          "character": "糕",
+          "pinyin": "gāo"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "What's wrong?",
+      "words": [
+        {
+          "character": "怎",
+          "pinyin": "zěn"
+        },
+        {
+          "character": "么",
+          "pinyin": "me"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "？",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It rained heavily yesterday, and it rained again today.",
+      "words": [
+        {
+          "character": "昨",
+          "pinyin": "zuó"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "大",
+          "pinyin": "dà"
+        },
+        {
+          "character": "雨",
+          "pinyin": "yǔ"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "今",
+          "pinyin": "jīn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "又",
+          "pinyin": "yòu"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "雨",
+          "pinyin": "yǔ"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "The weather here will be great this weekend. You'd better come back a bit sooner.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "周",
+          "pinyin": "zhōu"
+        },
+        {
+          "character": "末",
+          "pinyin": "mò"
+        },
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "气",
+          "pinyin": "qì"
+        },
+        {
+          "character": "很",
+          "pinyin": "hěn"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "快",
+          "pinyin": "kuài"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "回",
+          "pinyin": "huí"
+        },
+        {
+          "character": "来",
+          "pinyin": "lái"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "It will be warmer in New York this weekend, too. I have an interview next week. I can't come back yet.",
+      "words": [
+        {
+          "character": "这",
+          "pinyin": "zhè"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "周",
+          "pinyin": "zhōu"
+        },
+        {
+          "character": "末",
+          "pinyin": "mò"
+        },
+        {
+          "character": "纽",
+          "pinyin": "niǔ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "也",
+          "pinyin": "yě"
+        },
+        {
+          "character": "会",
+          "pinyin": "huì"
+        },
+        {
+          "character": "暖",
+          "pinyin": "nuǎn"
+        },
+        {
+          "character": "和",
+          "pinyin": "huo"
+        },
+        {
+          "character": "一",
+          "pinyin": "yì"
+        },
+        {
+          "character": "点",
+          "pinyin": "diǎn"
+        },
+        {
+          "character": "儿",
+          "pinyin": "er"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "下",
+          "pinyin": "xià"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "星",
+          "pinyin": "xīng"
+        },
+        {
+          "character": "期",
+          "pinyin": "qī"
+        },
+        {
+          "character": "有",
+          "pinyin": "yǒu"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "面",
+          "pinyin": "miàn"
+        },
+        {
+          "character": "试",
+          "pinyin": "shì"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "还",
+          "pinyin": "hái"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "能",
+          "pinyin": "néng"
+        },
+        {
+          "character": "回",
+          "pinyin": "huí"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "I found a job in California. You should come, too. It's not cold in the winter in California, or hot in the summer. Spring and fall are even more comfortable.",
+      "words": [
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "在",
+          "pinyin": "zài"
+        },
+        {
+          "character": "加",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "州",
+          "pinyin": "zhōu"
+        },
+        {
+          "character": "找",
+          "pinyin": "zhǎo"
+        },
+        {
+          "character": "了",
+          "pinyin": "le"
+        },
+        {
+          "character": "一",
+          "pinyin": "yí"
+        },
+        {
+          "character": "个",
+          "pinyin": "ge"
+        },
+        {
+          "character": "工",
+          "pinyin": "gōng"
+        },
+        {
+          "character": "作",
+          "pinyin": "zuò"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "你",
+          "pinyin": "nǐ"
+        },
+        {
+          "character": "也",
+          "pinyin": "yě"
+        },
+        {
+          "character": "去",
+          "pinyin": "qù"
+        },
+        {
+          "character": "吧",
+          "pinyin": "ba"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        },
+        {
+          "character": "加",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "州",
+          "pinyin": "zhōu"
+        },
+        {
+          "character": "冬",
+          "pinyin": "dōng"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "不",
+          "pinyin": "bù"
+        },
+        {
+          "character": "冷",
+          "pinyin": "lěng"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "夏",
+          "pinyin": "xià"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "不",
+          "pinyin": "bú"
+        },
+        {
+          "character": "热",
+          "pinyin": "rè"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "春",
+          "pinyin": "chūn"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "和",
+          "pinyin": "hé"
+        },
+        {
+          "character": "秋",
+          "pinyin": "qiū"
+        },
+        {
+          "character": "天",
+          "pinyin": "tiān"
+        },
+        {
+          "character": "更",
+          "pinyin": "gèng"
+        },
+        {
+          "character": "舒",
+          "pinyin": "shū"
+        },
+        {
+          "character": "服",
+          "pinyin": "fu"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    },
+    {
+      "def": "California is great, but I like New York more.",
+      "words": [
+        {
+          "character": "加",
+          "pinyin": "jiā"
+        },
+        {
+          "character": "州",
+          "pinyin": "zhōu"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "好",
+          "pinyin": "hǎo"
+        },
+        {
+          "character": "，",
+          "pinyin": ""
+        },
+        {
+          "character": "可",
+          "pinyin": "kě"
+        },
+        {
+          "character": "是",
+          "pinyin": "shì"
+        },
+        {
+          "character": "我",
+          "pinyin": "wǒ"
+        },
+        {
+          "character": "更",
+          "pinyin": "gèng"
+        },
+        {
+          "character": "喜",
+          "pinyin": "xǐ"
+        },
+        {
+          "character": "欢",
+          "pinyin": "huan"
+        },
+        {
+          "character": "纽",
+          "pinyin": "niǔ"
+        },
+        {
+          "character": "约",
+          "pinyin": "yuē"
+        },
+        {
+          "character": "。",
+          "pinyin": ""
+        }
+      ]
+    }
+  ]
+}

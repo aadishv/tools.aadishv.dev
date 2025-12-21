@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    {
+      "def": "My head hurts a little today.",
+      "words": [
+        { "character": "今", "pinyin": "jin1" },
+        { "character": "天", "pinyin": "tian1" },
+        { "character": "我", "pinyin": "wo3" },
+        { "character": "的", "pinyin": "de5" },
+        { "character": "头", "pinyin": "tou2" },
+        { "character": "有", "pinyin": "you3" },
+        { "character": "点", "pinyin": "dian3" },
+        { "character": "儿", "pinyin": "r5" },
+        { "character": "疼", "pinyin": "teng2" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Her hair is very long.",
+      "words": [
+        { "character": "她", "pinyin": "ta1" },
+        { "character": "的", "pinyin": "de5" },
+        { "character": "头", "pinyin": "tou2" },
+        { "character": "发", "pinyin": "fa4" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "长", "pinyin": "chang2" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "Whose ears are very small?",
+      "words": [
+        { "character": "谁", "pinyin": "shei2" },
+        { "character": "的", "pinyin": "de5" },
+        { "character": "耳", "pinyin": "er3" },
+        { "character": "朵", "pinyin": "duo3" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "小", "pinyin": "xiao3" },
+        { "character": "？", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "My younger sister's eyebrows are very pretty.",
+      "words": [
+        { "character": "我", "pinyin": "wo3" },
+        { "character": "妹", "pinyin": "mei4" },
+        { "character": "妹", "pinyin": "mei4" },
+        { "character": "的", "pinyin": "de5" },
+        { "character": "眉", "pinyin": "mei2" },
+        { "character": "毛", "pinyin": "mao2" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "漂", "pinyin": "piao4" },
+        { "character": "亮", "pinyin": "liang4" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "My hands are very cold.",
+      "words": [
+        { "character": "我", "pinyin": "wo3" },
+        { "character": "的", "pinyin": "de5" },
+        { "character": "手", "pinyin": "shou3" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "冷", "pinyin": "leng3" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "He has long fingers.",
+      "words": [
+        { "character": "他", "pinyin": "ta1" },
+        { "character": "的", "pinyin": "de5" },
+        { "character": "手", "pinyin": "shou3" },
+        { "character": "指", "pinyin": "zhi3" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "长", "pinyin": "chang2" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "She is very thin this year.",
+      "words": [
+        { "character": "她", "pinyin": "ta1" },
+        { "character": "今", "pinyin": "jin1" },
+        { "character": "年", "pinyin": "nian2" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "瘦", "pinyin": "shou4" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "My older brother is a little fat.",
+      "words": [
+        { "character": "我", "pinyin": "wo3" },
+        { "character": "哥", "pinyin": "ge1" },
+        { "character": "哥", "pinyin": "ge1" },
+        { "character": "有", "pinyin": "you3" },
+        { "character": "一", "pinyin": "yi1" },
+        { "character": "点", "pinyin": "dian3" },
+        { "character": "儿", "pinyin": "r5" },
+        { "character": "胖", "pinyin": "pang4" },
+        { "character": "。", "pinyin": "" }
+      ]
+    },
+    {
+      "def": "My younger brother is short but very cute.",
+      "words": [
+        { "character": "我", "pinyin": "wo3" },
+        { "character": "弟", "pinyin": "di4" },
+        { "character": "弟", "pinyin": "di4" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "矮", "pinyin": "ai3" },
+        { "character": "，", "pinyin": "" },
+        { "character": "可", "pinyin": "ke3" },
+        { "character": "是", "pinyin": "shi4" },
+        { "character": "很", "pinyin": "hen3" },
+        { "character": "可", "pinyin": "ke3" },
+        { "character": "爱", "pinyin": "ai4" },
+        { "character": "。", "pinyin": "" }
+      ]
+    }
+  ]
+}

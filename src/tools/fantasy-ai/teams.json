@@ -1,0 +1,290 @@
+[
+  {
+    "Team": "1000A",
+    "Team Name": "Radiant AI",
+    "Organization": "Radiant Robotics",
+    "Location": "Arcadia, California, United States"
+  },
+  {
+    "Team": "1001A",
+    "Team Name": "Hippocampus",
+    "Organization": "Hippocampus",
+    "Location": "San Jose, California, United States"
+  },
+  {
+    "Team": "1005A",
+    "Team Name": "Magikid_CedarPark_AIRobotics",
+    "Organization": "Magikid Robotics Lab Cedar Park",
+    "Location": "Cedar Park, Texas, United States"
+  },
+  {
+    "Team": "1008A",
+    "Team Name": "1008A Robot",
+    "Organization": "Shanghai Robot Education technolog co. LTD,China",
+    "Location": "Shanghai, Shanghai, China"
+  },
+  {
+    "Team": "1025A",
+    "Team Name": "Magikid Crazy Bots",
+    "Organization": "Magikid Robotics Lab",
+    "Location": "Shanghai, Shanghai, China"
+  },
+  {
+    "Team": "1030P",
+    "Team Name": "Robo Pirates",
+    "Organization": "MAGNOLIA SCIENCE ACADEMY SANTA ANA",
+    "Location": "Santa Ana, California, United States"
+  },
+  {
+    "Team": "1111X",
+    "Team Name": "Demotorized",
+    "Organization": "BASIS SCOTTSDALE",
+    "Location": "Scottsdale, Arizona, United States"
+  },
+  {
+    "Team": "1159X",
+    "Team Name": "Expedite",
+    "Organization": "Midnight Robotics",
+    "Location": "Irvine, California, United States"
+  },
+  {
+    "Team": "1216A",
+    "Team Name": "A",
+    "Organization": "Wheelhouse Robotics",
+    "Location": "Irving, Texas, United States"
+  },
+  {
+    "Team": "1216B",
+    "Team Name": "B",
+    "Organization": "Wheelhouse Robotics",
+    "Location": "Irving, Texas, United States"
+  },
+  {
+    "Team": "1248A",
+    "Team Name": "RoboDawgs: Apex",
+    "Organization": "GRANDVILLE HIGH SCHOOL",
+    "Location": "Grandville, Michigan, United States"
+  },
+  {
+    "Team": "1248W",
+    "Team Name": "RoboDawgs: Wumbo",
+    "Organization": "GRANDVILLE HIGH SCHOOL",
+    "Location": "Grandville, Michigan, United States"
+  },
+  {
+    "Team": "1248X",
+    "Team Name": "RoboDawgs: Xtra",
+    "Organization": "GRANDVILLE HIGH SCHOOL",
+    "Location": "Grandville, Michigan, United States"
+  },
+  {
+    "Team": "1565X",
+    "Team Name": "GHOST",
+    "Organization": "University of Texas at Austin",
+    "Location": "Austin, Texas, United States"
+  },
+  {
+    "Team": "1666A",
+    "Team Name": "SYD",
+    "Organization": "Magikid Sydney lab",
+    "Location": "Castle Hill, Australia"
+  },
+  {
+    "Team": "1698V",
+    "Team Name": "Power Beans",
+    "Organization": "1698",
+    "Location": "San Jose, California, United States"
+  },
+  {
+    "Team": "1727S",
+    "Team Name": "SAUDI 1 team",
+    "Organization": "Sani",
+    "Location": "Riyadh, Saudi Arabia"
+  },
+  {
+    "Team": "1919K",
+    "Team Name": "Kettering University",
+    "Organization": "Kettering University",
+    "Location": "Flint, Michigan, United States"
+  },
+  {
+    "Team": "2025A",
+    "Team Name": "AUM1",
+    "Organization": "American University of the Middle East",
+    "Location": "Eqaila, Kuwait"
+  },
+  {
+    "Team": "2055A",
+    "Team Name": "Capybaras",
+    "Organization": "Mi3L School",
+    "Location": "Oakville, Ontario, Canada"
+  },
+  {
+    "Team": "2147Z",
+    "Team Name": "Integer Robotics",
+    "Organization": "Integer Robotics",
+    "Location": "Santa Ana, California, United States"
+  },
+  {
+    "Team": "2536X",
+    "Team Name": "Wo AI Jensen Huang",
+    "Organization": "Curious AI Robotics",
+    "Location": "Hsinchu, Chinese Taipei"
+  },
+  {
+    "Team": "2675A",
+    "Team Name": "AI Magic",
+    "Organization": "Magikid Fremont",
+    "Location": "Fremont, California, United States"
+  },
+  {
+    "Team": "2737D",
+    "Team Name": "AI Storm",
+    "Organization": "Magikid Robotics Lab Redmond",
+    "Location": "Redmond, Washington, United States"
+  },
+  {
+    "Team": "2866B",
+    "Team Name": "AI Blaze",
+    "Organization": "Magikid Tustin",
+    "Location": "Tustin, California, United States"
+  },
+  {
+    "Team": "3151A",
+    "Team Name": "3151A",
+    "Organization": "Paradigm",
+    "Location": "Foster City, California, United States"
+  },
+  {
+    "Team": "3303X",
+    "Team Name": "Robolabs Xplorer",
+    "Organization": "Robolabs",
+    "Location": "Dublin, California, United States"
+  },
+  {
+    "Team": "4140A",
+    "Team Name": "Raider Robotics AI",
+    "Organization": "Milwaukee School of Engineering",
+    "Location": "Milwaukee, Wisconsin, United States"
+  },
+  {
+    "Team": "4147A",
+    "Team Name": "Sugar Racing",
+    "Organization": "Sheng Kung Hui Choi Kou School (Macau)",
+    "Location": "Macau, Macau, China"
+  },
+  {
+    "Team": "4566H",
+    "Team Name": "GoGoGo",
+    "Organization": "Magikid Pleasanton Lab",
+    "Location": "Pleasanton, California, United States"
+  },
+  {
+    "Team": "4646C",
+    "Team Name": "COWCULATED",
+    "Organization": "Seton School",
+    "Location": "Manassas, Va, Virginia, United States"
+  },
+  {
+    "Team": "6599A",
+    "Team Name": "VANTABLACK",
+    "Organization": "AOE Robotics Club",
+    "Location": "Rockville, Maryland, United States"
+  },
+  {
+    "Team": "7700R",
+    "Team Name": "Rolling Robots",
+    "Organization": "Rolling Robots",
+    "Location": "Rolling Hills Estates, California, United States"
+  },
+  {
+    "Team": "7882A",
+    "Team Name": "MCCTC AI",
+    "Organization": "MAHONING CAREER & TECHNICAL",
+    "Location": "Canfield, Ohio, United States"
+  },
+  {
+    "Team": "8187S",
+    "Team Name": "Singularity",
+    "Organization": "Redempted Robotics",
+    "Location": "Granada Hills, California, United States"
+  },
+  {
+    "Team": "8777A",
+    "Team Name": "Can't Stop Us",
+    "Organization": "Magikid Cupertino Robotics Lab",
+    "Location": "Cupertino, California, United States"
+  },
+  {
+    "Team": "9257M",
+    "Team Name": "m.",
+    "Organization": "COVINGTON CATHOLIC HIGH SCHOOL",
+    "Location": "Park Hills, Kentucky, United States"
+  },
+  {
+    "Team": "10106A",
+    "Team Name": "Vinci AI",
+    "Organization": "iSTEAM Academy",
+    "Location": "Burlington, Massachusetts, United States"
+  },
+  {
+    "Team": "11688A",
+    "Team Name": "Magikid Caliber",
+    "Organization": "Magikid Empower Tech Foundation",
+    "Location": "Frisco, Texas, United States"
+  },
+  {
+    "Team": "20096A",
+    "Team Name": "Guardians AI",
+    "Organization": "Guardians Robotics",
+    "Location": "Poolsville, Maryland, United States"
+  },
+  {
+    "Team": "25252H",
+    "Team Name": "Holy Cow",
+    "Organization": "TechArena",
+    "Location": "Markham, Ontario, Canada"
+  },
+  {
+    "Team": "32275A",
+    "Team Name": "Trinity",
+    "Organization": "HTL Wiener Neustadt/F-WuTS",
+    "Location": "Wiener Neustadt, Niederösterreich, Austria"
+  },
+  {
+    "Team": "54154A",
+    "Team Name": "SALSA",
+    "Organization": "CLEAR BROOK HIGH SCHOOL",
+    "Location": "Houston, Texas, United States"
+  },
+  {
+    "Team": "60666X",
+    "Team Name": "Magikid OMG！",
+    "Organization": "Magikid Robotics Lab",
+    "Location": "Shanghai, Shanghai, China"
+  },
+  {
+    "Team": "62228A",
+    "Team Name": "Exit 6 Robotics",
+    "Organization": "Livingston Robotics Club",
+    "Location": "Livingston, New Jersey, United States"
+  },
+  {
+    "Team": "70649W",
+    "Team Name": "Un-Be-Liev-A-Ble",
+    "Organization": "PROFESSIONAL ACADEMY MAGNET AT LOFTEN HIGH SCHOOL",
+    "Location": "Gainesville, Florida, United States"
+  },
+  {
+    "Team": "78336S",
+    "Team Name": "QVEX",
+    "Organization": "Queen's University",
+    "Location": "Kingston, Ontario, Canada"
+  },
+  {
+    "Team": "90908Z",
+    "Team Name": "Battle Bot",
+    "Organization": "NERA",
+    "Location": "Southboro, Massachusetts, United States"
+  }
+]
