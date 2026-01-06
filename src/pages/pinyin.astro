@@ -1,0 +1,18 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+<Layout>
+    <div class="flex min-h-screen items-center justify-center p-8">
+        <p class="text-balance text-center" id="text">paste to convert</p>
+    </div>
+    <script >
+        import pinyin from "chinese-to-pinyin";
+        const text = document.getElementById("text");
+        document.addEventListener("paste", (e) => {
+            const pasted = e.clipboardData?.getData("text");
+            if (pasted) {
+                text.innerText = pinyin(pasted);
+            }
+        });
+    </script>
+</Layout>
