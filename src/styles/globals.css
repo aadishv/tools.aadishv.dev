@@ -159,11 +159,4 @@
   blockquote {
     @apply border-l-4 pl-4 italic border-gray-400;
   }
-  p > code {
-    @apply !text-aadish;
-  }
-  p > code::before,
-  p > code::after {
-    content: "`";
-  }
 }
